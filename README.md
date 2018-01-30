@@ -1,2 +1,2 @@
 # Bruin-Nav
-Direction in Westwood
+Using maps to create turn by turn directions in Beverly Hills and Westwood
